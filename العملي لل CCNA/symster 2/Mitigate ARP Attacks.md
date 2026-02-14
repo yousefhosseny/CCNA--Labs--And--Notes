@@ -1,0 +1,6 @@
+1. [[فعل DHCP Snooping عام على السويتش (global)]]
+2. [[فعل DHCP Snooping على VLANs محددة]]
+3. [[فعل DAI على VLANs محددة]]
+4. [[حدد المنافذ الموثوقة (trusted) لـDHCP Snooping وDAI]]
+5. [[أوامر التحقق (show) وأين تشوف المشاكل]]
+6. [[مثال عملي كامل]]

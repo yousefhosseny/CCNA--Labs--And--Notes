@@ -1,0 +1,8 @@
+1) ء [[PortFast — عشان تقلّل زمن الانتظار للـedge hosts]]
+2) ء [[BPDU Guard — طريقة سريعة لإيقاف محاولات إدخال سويتش غير مصرح به]]
+3)  ء [[BPDU Filter — استخدمها بحذر (قد تعادل تعطيل STP على المنفذ)]]
+4) ء [[Root Guard — لمنع منافذ مُعيّنة من أن تصبح Root]]
+5) ء[[Loop Guard — لمنع الـalternate & backup ports من التحول إلى forwarding عند فقدان BPDUs]]
+6) ء [[UDLD (UniDirectional Link Detection) — لاكتشاف الروابط أحادية الاتجاه، مهم للألياف]]
+7)  ء [[checklist للتطبيق الآمن]]
+8) [[مثال تجميعي سريع]]
